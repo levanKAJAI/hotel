@@ -12,6 +12,7 @@ hotel (finaluri)
  unittest/pytest ტესტირებას
 
 კლასები, ატრიბუტები და მეთოდები:
+
 კლასი Room
 აღწერა: თითო ოთახი სასტუმროში
 Attributes (ატრიბუტები):  room_number: int – ოთახის ნომერი
